@@ -80,4 +80,4 @@ Your final product will be assessed on the following metrics:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Trilogy Education Services © 2020. All Rights Reserved.
