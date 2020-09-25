@@ -1,4 +1,4 @@
-# Leaflet Homework - Visualizing Data with Leaflet
+# Leaflet Home - Visualizing Data with Leaflet
 
 ## Background
 
