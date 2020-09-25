@@ -76,7 +76,6 @@ Your final product will be assessed on the following metrics:
 
 * Professionalism
 
-**Good luck!**
 
 ### Copyright
 
